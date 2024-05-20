@@ -1,6 +1,8 @@
-# Creating a Chatbot with Streamlit LangChain and OpenAI
+# Creating a Chatbot with Streamlit, LangChain and OpenAI
 
 Chat application that seamlessly integrates PDF interaction and the power of OpenAI's language model and LangChain. With this, you can engage in natural and intuitive conversations with PDF documents, making information retrieval, analysis, and collaboration easier than ever before.
+
+![chatpdf](https://github.com/Ali619/chatPDF/blob/master/chat.png)
 
 ## Requirements
 
