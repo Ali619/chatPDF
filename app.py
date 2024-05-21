@@ -10,8 +10,10 @@ from langchain.chains import ConversationalRetrievalChain
 from langchain.memory import ConversationBufferMemory
 from streamlit_chat import message
 from langchain.callbacks import get_openai_callback
+from dotenv import load_dotenv
 
 def main():
+    load_dotenv()
     st.set_page_config(page_title="Chat With files")
     st.header("ChatPDF will help you to ask from your PDFs 🤓")
 
